@@ -1,1 +1,1 @@
-# Scikit-Learn-Reklama-G-re-Sat-Tahmini.py
+# Scikit-Learn-Reklama-Gore-Satis-Tahmini.py
